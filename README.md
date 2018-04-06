@@ -13,3 +13,7 @@
 - [Servo 的貢獻排名](https://github.com/servo/servo/graphs/contributors)
 
     目前排名62，不包含與此專案相關的其他貢獻，此外 Servo 相關網站是我翻譯的。
+
+##  授權
+
+採用 GPL-2.0 授權
